@@ -1,0 +1,253 @@
+gene_symbol,disease_id,disease_name,phenotype,phenotype_id,source,source_dataset,record_type
+,,Acne,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Allergic Rhinitis,Fever (frequency: 2/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Allergic Rhinitis,Cough (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Allergic Rhinitis,Fatigue (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Alzheimer's Disease,Fever (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Alzheimer's Disease,Cough (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Alzheimer's Disease,Fatigue (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Anemia,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Anxiety Disorders,Fever (frequency: 3/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Anxiety Disorders,Cough (frequency: 3/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Anxiety Disorders,Fatigue (frequency: 3/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Anxiety Disorders,Difficulty Breathing (frequency: 1/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Appendicitis,Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Appendicitis,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Asthma,Fever (frequency: 18/23),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Asthma,Cough (frequency: 17/23),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Asthma,Fatigue (frequency: 11/23),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Asthma,Difficulty Breathing (frequency: 22/23),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Atherosclerosis,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Autism Spectrum Disorder (ASD),Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Bipolar Disorder,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Bladder Cancer,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Brain Tumor,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Breast Cancer,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Bronchitis,Fever (frequency: 6/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Bronchitis,Cough (frequency: 6/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Bronchitis,Fatigue (frequency: 6/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Bronchitis,Difficulty Breathing (frequency: 8/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Cataracts,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Cerebral Palsy,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Cerebral Palsy,Difficulty Breathing (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Chickenpox,Cough (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Cholecystitis,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Cholera,Fever (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Cholera,Fatigue (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Cholera,Difficulty Breathing (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Chronic Kidney Disease,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Chronic Obstructive Pulmonary Disease (COPD),Fever (frequency: 2/4),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Chronic Obstructive Pulmonary Disease (COPD),Cough (frequency: 2/4),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Chronic Obstructive Pulmonary Disease (COPD),Fatigue (frequency: 4/4),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Chronic Obstructive Pulmonary Disease (COPD),Difficulty Breathing (frequency: 4/4),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Chronic Obstructive Pulmonary...,Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Chronic Obstructive Pulmonary...,Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Chronic Obstructive Pulmonary...,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Chronic Obstructive Pulmonary...,Difficulty Breathing (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Cirrhosis,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Colorectal Cancer,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Common Cold,Fever (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Common Cold,Cough (frequency: 3/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Common Cold,Fatigue (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Common Cold,Difficulty Breathing (frequency: 2/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Conjunctivitis (Pink Eye),Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Coronary Artery Disease,Fever (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Coronary Artery Disease,Cough (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Coronary Artery Disease,Fatigue (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Crohn's Disease,Fever (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Crohn's Disease,Cough (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Crohn's Disease,Fatigue (frequency: 5/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Cystic Fibrosis,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Cystic Fibrosis,Difficulty Breathing (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Dementia,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Dengue Fever,Fever (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Dengue Fever,Fatigue (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Depression,Fever (frequency: 2/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Depression,Cough (frequency: 2/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Depression,Fatigue (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Depression,Difficulty Breathing (frequency: 2/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Diabetes,Fever (frequency: 5/10),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Diabetes,Cough (frequency: 5/10),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Diabetes,Fatigue (frequency: 6/10),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Diabetes,Difficulty Breathing (frequency: 1/10),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Diverticulitis,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Down Syndrome,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,"Eating Disorders (Anorexia,...",Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Ebola Virus,Fever (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Ebola Virus,Cough (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Ebola Virus,Fatigue (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Ebola Virus,Difficulty Breathing (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Eczema,Fever (frequency: 2/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Eczema,Cough (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Eczema,Fatigue (frequency: 2/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Endometriosis,Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Epilepsy,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Esophageal Cancer,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Fibromyalgia,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Gastroenteritis,Fever (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Gastroenteritis,Cough (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Gastroenteritis,Fatigue (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Gastroenteritis,Difficulty Breathing (frequency: 2/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Glaucoma,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Gout,Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Gout,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,HIV/AIDS,Fever (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hemophilia,Fatigue (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hepatitis,Fever (frequency: 3/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hepatitis,Cough (frequency: 1/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hepatitis,Fatigue (frequency: 3/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hepatitis,Difficulty Breathing (frequency: 1/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hepatitis B,Cough (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hepatitis B,Fatigue (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hyperglycemia,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hypertension,Fever (frequency: 5/10),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hypertension,Cough (frequency: 4/10),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hypertension,Fatigue (frequency: 5/10),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hypertensive Heart Disease,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hyperthyroidism,Fever (frequency: 3/7),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hyperthyroidism,Cough (frequency: 5/7),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hyperthyroidism,Fatigue (frequency: 5/7),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hypoglycemia,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hypothyroidism,Fever (frequency: 3/7),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hypothyroidism,Cough (frequency: 3/7),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Hypothyroidism,Fatigue (frequency: 7/7),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Influenza,Fever (frequency: 6/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Influenza,Cough (frequency: 6/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Influenza,Fatigue (frequency: 6/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Influenza,Difficulty Breathing (frequency: 5/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Kidney Cancer,Fever (frequency: 2/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Kidney Cancer,Cough (frequency: 3/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Kidney Cancer,Fatigue (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Kidney Cancer,Difficulty Breathing (frequency: 1/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Kidney Disease,Fever (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Kidney Disease,Cough (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Kidney Disease,Fatigue (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Kidney Disease,Difficulty Breathing (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Klinefelter Syndrome,Fatigue (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Liver Cancer,Fever (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Liver Cancer,Cough (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Liver Cancer,Fatigue (frequency: 5/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Liver Cancer,Difficulty Breathing (frequency: 3/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Liver Disease,Fever (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Liver Disease,Cough (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Liver Disease,Fatigue (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Liver Disease,Difficulty Breathing (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Lung Cancer,Fever (frequency: 3/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Lung Cancer,Cough (frequency: 1/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Lung Cancer,Fatigue (frequency: 3/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Lung Cancer,Difficulty Breathing (frequency: 1/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Lyme Disease,Fever (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Lymphoma,Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Malaria,Fever (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Marfan Syndrome,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Measles,Fever (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Measles,Cough (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Melanoma,Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Melanoma,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Migraine,Fever (frequency: 5/10),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Migraine,Cough (frequency: 5/10),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Migraine,Fatigue (frequency: 5/10),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Migraine,Difficulty Breathing (frequency: 1/10),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Multiple Sclerosis,Fever (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Multiple Sclerosis,Cough (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Multiple Sclerosis,Fatigue (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Mumps,Fatigue (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Muscular Dystrophy,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Myocardial Infarction (Heart...,Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Myocardial Infarction (Heart...,Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Myocardial Infarction (Heart...,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Myocardial Infarction (Heart...,Difficulty Breathing (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Obsessive-Compulsive Disorde...,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Osteoarthritis,Fever (frequency: 3/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Osteoarthritis,Cough (frequency: 3/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Osteoarthritis,Fatigue (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Osteoarthritis,Difficulty Breathing (frequency: 2/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Osteomyelitis,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Osteoporosis,Fever (frequency: 7/14),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Osteoporosis,Cough (frequency: 6/14),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Osteoporosis,Fatigue (frequency: 8/14),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Osteoporosis,Difficulty Breathing (frequency: 2/14),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Otitis Media (Ear Infection),Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Otitis Media (Ear Infection),Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Otitis Media (Ear Infection),Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Ovarian Cancer,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pancreatic Cancer,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pancreatitis,Fever (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pancreatitis,Cough (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pancreatitis,Fatigue (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pancreatitis,Difficulty Breathing (frequency: 1/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Parkinson's Disease,Fever (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Parkinson's Disease,Cough (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Parkinson's Disease,Fatigue (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pneumocystis Pneumonia (PCP),Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pneumocystis Pneumonia (PCP),Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pneumocystis Pneumonia (PCP),Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pneumonia,Fever (frequency: 7/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pneumonia,Cough (frequency: 7/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pneumonia,Fatigue (frequency: 7/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pneumonia,Difficulty Breathing (frequency: 8/8),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pneumothorax,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Pneumothorax,Difficulty Breathing (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Polio,Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Polio,Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Polio,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Polycystic Ovary Syndrome (PCOS),Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Polycystic Ovary Syndrome (PCOS),Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Prader-Willi Syndrome,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Prostate Cancer,Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Prostate Cancer,Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Psoriasis,Fever (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Psoriasis,Cough (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Psoriasis,Fatigue (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Rabies,Fever (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Rabies,Cough (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Rheumatoid Arthritis,Fever (frequency: 2/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Rheumatoid Arthritis,Cough (frequency: 3/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Rheumatoid Arthritis,Fatigue (frequency: 4/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Rheumatoid Arthritis,Difficulty Breathing (frequency: 1/6),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Rubella,Fever (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Rubella,Fatigue (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Schizophrenia,Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Schizophrenia,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Sepsis,Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Sepsis,Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Sepsis,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Sickle Cell Anemia,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Sinusitis,Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Sinusitis,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Sleep Apnea,Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Sleep Apnea,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Sleep Apnea,Difficulty Breathing (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Spina Bifida,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Stroke,Fever (frequency: 12/16),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Stroke,Cough (frequency: 6/16),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Stroke,Fatigue (frequency: 13/16),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Stroke,Difficulty Breathing (frequency: 2/16),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Systemic Lupus Erythematosus...,Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Systemic Lupus Erythematosus...,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Testicular Cancer,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Tetanus,Fatigue (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Thyroid Cancer,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Tonsillitis,Fever (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Tonsillitis,Cough (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Tonsillitis,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Tourette Syndrome,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Tuberculosis,Fever (frequency: 3/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Tuberculosis,Cough (frequency: 3/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Tuberculosis,Fatigue (frequency: 3/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Tuberculosis,Difficulty Breathing (frequency: 2/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Turner Syndrome,Fatigue (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Typhoid Fever,Cough (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Ulcerative Colitis,Fever (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Ulcerative Colitis,Cough (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Ulcerative Colitis,Fatigue (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Urinary Tract Infection,Fever (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Urinary Tract Infection,Cough (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Urinary Tract Infection,Fatigue (frequency: 3/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Urinary Tract Infection,Difficulty Breathing (frequency: 2/5),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Urinary Tract Infection (UTI),Fever (frequency: 2/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Urinary Tract Infection (UTI),Cough (frequency: 1/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Urinary Tract Infection (UTI),Fatigue (frequency: 2/3),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Williams Syndrome,Fatigue (frequency: 1/1),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Zika Virus,Cough (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey
+,,Zika Virus,Fatigue (frequency: 2/2),,Clinical Survey Cohort,Disease_symptom_and_patient_profile_dataset,clinical_survey

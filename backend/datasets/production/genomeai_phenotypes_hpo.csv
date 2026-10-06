@@ -1,0 +1,712 @@
+gene_symbol,disease_id,disease_name,phenotype,phenotype_id,source,source_dataset,record_type
+ADAMTS9,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AGA,HP:0012068,Aspartylglucosaminuria,Aspartylglucosaminuria,HP:0012068,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ALOX5AP,HP:0002140,Ischemic stroke,Ischemic stroke,HP:0002140,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ANKS6,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+APC,HP:0001402,Hepatocellular carcinoma,Hepatocellular carcinoma,HP:0001402,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+APOL2,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+APP,HP:0002511,Alzheimer disease,Alzheimer disease,HP:0002511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ARHGAP26,HP:0012209,Juvenile myelomonocytic leukemia,Juvenile myelomonocytic leukemia,HP:0012209,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ASCC1,HP:0100580,Barrett esophagus,Barrett esophagus,HP:0100580,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ASPSCR1,HP:0012218,Alveolar soft part sarcoma,Alveolar soft part sarcoma,HP:0012218,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ATF6,HP:0011516,Achromatopsia,Achromatopsia,HP:0011516,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AXIN1,HP:0001402,Hepatocellular carcinoma,Hepatocellular carcinoma,HP:0001402,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BMP2,HP:0009372,Type A2 brachydactyly,Type A2 brachydactyly,HP:0009372,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BMPR1B,HP:0009372,Type A2 brachydactyly,Type A2 brachydactyly,HP:0009372,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BMS1,HP:0001057,Aplasia cutis congenita,Aplasia cutis congenita,HP:0001057,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BRCA2,HP:0002885,Medulloblastoma,Medulloblastoma,HP:0002885,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+C9ORF72,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CALCR,HP:0000939,Osteoporosis,Osteoporosis,HP:0000939,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CASP8,HP:0001402,Hepatocellular carcinoma,Hepatocellular carcinoma,HP:0001402,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CBL,HP:0012209,Juvenile myelomonocytic leukemia,Juvenile myelomonocytic leukemia,HP:0012209,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CCND1,HP:0006775,Multiple myeloma,Multiple myeloma,HP:0006775,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CD244,HP:0001370,Rheumatoid arthritis,Rheumatoid arthritis,HP:0001370,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CDC73,HP:0006780,Parathyroid carcinoma,Parathyroid carcinoma,HP:0006780,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CDH1,HP:0012114,Endometrial carcinoma,Endometrial carcinoma,HP:0012114,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CEBPA,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CEP164,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CEP290,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CEP83,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CFAP43,HP:0002343,Normal pressure hydrocephalus,Normal pressure hydrocephalus,HP:0002343,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CHI3L1,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CHIC2,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CIITA,HP:0001370,Rheumatoid arthritis,Rheumatoid arthritis,HP:0001370,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CNGA3,HP:0011516,Achromatopsia,Achromatopsia,HP:0011516,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CNGB3,HP:0011516,Achromatopsia,Achromatopsia,HP:0011516,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+COL1A1,HP:0000939,Osteoporosis,Osteoporosis,HP:0000939,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+COL1A2,HP:0000939,Osteoporosis,Osteoporosis,HP:0000939,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+COL4A1,HP:0000631,Retinal arterial tortuosity,Retinal arterial tortuosity,HP:0000631,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CTH,HP:0003153,Cystathioninuria,Cystathioninuria,HP:0003153,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CTHRC1,HP:0100580,Barrett esophagus,Barrett esophagus,HP:0100580,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CTNNB1,HP:0002885,Medulloblastoma,Medulloblastoma,HP:0002885,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CTNNB1,HP:0001402,Hepatocellular carcinoma,Hepatocellular carcinoma,HP:0001402,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CTNNB1,HP:0030434,Pilomatrixoma,Pilomatrixoma,HP:0030434,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DAOA,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DCDC2,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DICER1,HP:0009798,Euthyroid goiter,Euthyroid goiter,HP:0009798,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DICER1,HP:0100528,Pleuropulmonary blastoma,Pleuropulmonary blastoma,HP:0100528,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DISC2,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DNASE1,HP:0002725,Systemic lupus erythematosus,Systemic lupus erythematosus,HP:0002725,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DNMT3A,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DRD3,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DYSF,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ELP1,HP:0002885,Medulloblastoma,Medulloblastoma,HP:0002885,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EMX2,HP:0010636,Schizencephaly,Schizencephaly,HP:0010636,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ETV6,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EWSR1,HP:0012254,Ewing sarcoma,Ewing sarcoma,HP:0012254,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EXT1,HP:0006765,Chondrosarcoma,Chondrosarcoma,HP:0006765,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+F2,HP:0002140,Ischemic stroke,Ischemic stroke,HP:0002140,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+F5,HP:0002639,Budd-Chiari syndrome,Budd-Chiari syndrome,HP:0002639,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+F5,HP:0002140,Ischemic stroke,Ischemic stroke,HP:0002140,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FCGR2A,HP:0002725,Systemic lupus erythematosus,Systemic lupus erythematosus,HP:0002725,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FCGR2B,HP:0002725,Systemic lupus erythematosus,Systemic lupus erythematosus,HP:0002725,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FGFR3,HP:0010816,Epidermal nevus,Epidermal nevus,HP:0010816,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FLT3,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FMO3,HP:0003614,Trimethylaminuria,Trimethylaminuria,HP:0003614,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FOXO1,HP:0006779,Alveolar rhabdomyosarcoma,Alveolar rhabdomyosarcoma,HP:0006779,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GATA1,HP:0005534,Transient myeloproliferative syndrome,Transient myeloproliferative syndrome,HP:0005534,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GATA2,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GATA4,HP:0001636,Tetralogy of Fallot,Tetralogy of Fallot,HP:0001636,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GATA6,HP:0001636,Tetralogy of Fallot,Tetralogy of Fallot,HP:0001636,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GDF1,HP:0011536,Right atrial isomerism,Right atrial isomerism,HP:0011536,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GDF5,HP:0009372,Type A2 brachydactyly,Type A2 brachydactyly,HP:0009372,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GEMIN2,HP:0007269,Spinal muscular atrophy,Spinal muscular atrophy,HP:0007269,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GLIS2,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GNAT2,HP:0011516,Achromatopsia,Achromatopsia,HP:0011516,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GPR161,HP:0002885,Medulloblastoma,Medulloblastoma,HP:0002885,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HBA1,HP:0005511,Heinz body anemia,Heinz body anemia,HP:0005511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HBA2,HP:0005511,Heinz body anemia,Heinz body anemia,HP:0005511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HBB,HP:0005511,Heinz body anemia,Heinz body anemia,HP:0005511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HPD,HP:0034457,Hawkinsinuria,Hawkinsinuria,HP:0034457,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HRAS,HP:0010816,Epidermal nevus,Epidermal nevus,HP:0010816,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HTR2A,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+IFNG,HP:0001915,Aplastic anemia,Aplastic anemia,HP:0001915,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+IFT172,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+IGF2R,HP:0001402,Hepatocellular carcinoma,Hepatocellular carcinoma,HP:0001402,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+IL10,HP:0001370,Rheumatoid arthritis,Rheumatoid arthritis,HP:0001370,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+IL6,HP:0002408,Cerebral arteriovenous malformation,Cerebral arteriovenous malformation,HP:0002408,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+INSL3,HP:0000028,Cryptorchidism,Cryptorchidism,HP:0000028,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+INVS,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+IQCB1,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+JAG1,HP:0001636,Tetralogy of Fallot,Tetralogy of Fallot,HP:0001636,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+JAK2,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+JAK2,HP:0002639,Budd-Chiari syndrome,Budd-Chiari syndrome,HP:0002639,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KCNJ13,HP:0011533,Snowflake vitreoretinal degeneration,Snowflake vitreoretinal degeneration,HP:0011533,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KIF1B,HP:0002666,Pheochromocytoma,Pheochromocytoma,HP:0002666,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KIT,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KIT,HP:0200151,Cutaneous mastocytosis,Cutaneous mastocytosis,HP:0200151,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KRAS,HP:0002408,Cerebral arteriovenous malformation,Cerebral arteriovenous malformation,HP:0002408,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KRAS,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KRT17,HP:0012035,Steatocystoma multiplex,Steatocystoma multiplex,HP:0012035,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+L2HGDH,HP:0040144,L-2-hydroxyglutaric aciduria,L-2-hydroxyglutaric aciduria,HP:0040144,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LIG4,HP:0006775,Multiple myeloma,Multiple myeloma,HP:0006775,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LPP,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MAPKBP1,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MAPT,HP:0002145,Frontotemporal dementia,Frontotemporal dementia,HP:0002145,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MAX,HP:0002666,Pheochromocytoma,Pheochromocytoma,HP:0002666,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MET,HP:0011797,Papillary renal cell carcinoma type 1,Papillary renal cell carcinoma type 1,HP:0011797,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MET,HP:0001402,Hepatocellular carcinoma,Hepatocellular carcinoma,HP:0001402,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MLH3,HP:0012114,Endometrial carcinoma,Endometrial carcinoma,HP:0012114,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MLLT10,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MSH3,HP:0012114,Endometrial carcinoma,Endometrial carcinoma,HP:0012114,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MSH6,HP:0012114,Endometrial carcinoma,Endometrial carcinoma,HP:0012114,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MSR1,HP:0100580,Barrett esophagus,Barrett esophagus,HP:0100580,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MT-ATP6,HP:0001112,Leber optic atrophy,Leber optic atrophy,HP:0001112,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MT-CO3,HP:0001112,Leber optic atrophy,Leber optic atrophy,HP:0001112,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MT-CYB,HP:0001112,Leber optic atrophy,Leber optic atrophy,HP:0001112,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MT-ND1,HP:0001112,Leber optic atrophy,Leber optic atrophy,HP:0001112,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MT-ND2,HP:0001112,Leber optic atrophy,Leber optic atrophy,HP:0001112,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MT-ND4,HP:0001112,Leber optic atrophy,Leber optic atrophy,HP:0001112,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MT-ND4L,HP:0001112,Leber optic atrophy,Leber optic atrophy,HP:0001112,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MT-ND5,HP:0001112,Leber optic atrophy,Leber optic atrophy,HP:0001112,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MT-ND6,HP:0001112,Leber optic atrophy,Leber optic atrophy,HP:0001112,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MT-TT,HP:0009069,Lethal infantile mitochondrial myopathy,Lethal infantile mitochondrial myopathy,HP:0009069,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MTHFR,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYC,HP:0030080,Burkitt lymphoma,Burkitt lymphoma,HP:0030080,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NBN,HP:0001915,Aplastic anemia,Aplastic anemia,HP:0001915,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NEK8,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NF1,HP:0012209,Juvenile myelomonocytic leukemia,Juvenile myelomonocytic leukemia,HP:0012209,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NFKBIL1,HP:0001370,Rheumatoid arthritis,Rheumatoid arthritis,HP:0001370,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NKX2-5,HP:0001636,Tetralogy of Fallot,Tetralogy of Fallot,HP:0001636,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NLGN3,HP:0000717,Autism,Autism,HP:0000717,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NLGN4X,HP:0000717,Autism,Autism,HP:0000717,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NPHP1,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NPHP3,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NPHP4,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NPM1,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NRAS,HP:0010816,Epidermal nevus,Epidermal nevus,HP:0010816,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NRTN,HP:0002251,Aganglionic megacolon,Aganglionic megacolon,HP:0002251,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NUP214,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+OPN1MW,HP:0011520,Deuteranomaly,Deuteranomaly,HP:0011520,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+OPTN,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PAX3,HP:0006779,Alveolar rhabdomyosarcoma,Alveolar rhabdomyosarcoma,HP:0006779,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PAX7,HP:0006779,Alveolar rhabdomyosarcoma,Alveolar rhabdomyosarcoma,HP:0006779,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PCCA,HP:0003571,Propionic acidemia,Propionic acidemia,HP:0003571,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PCCB,HP:0003571,Propionic acidemia,Propionic acidemia,HP:0003571,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PDE6C,HP:0011516,Achromatopsia,Achromatopsia,HP:0011516,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PDE6H,HP:0011516,Achromatopsia,Achromatopsia,HP:0011516,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PDGFRL,HP:0001402,Hepatocellular carcinoma,Hepatocellular carcinoma,HP:0001402,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PDLIM4,HP:0000939,Osteoporosis,Osteoporosis,HP:0000939,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PICALM,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PIK3CA,HP:0010816,Epidermal nevus,Epidermal nevus,HP:0010816,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PIK3CA,HP:0001402,Hepatocellular carcinoma,Hepatocellular carcinoma,HP:0001402,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PIK3CA,HP:0031287,Seborrheic keratosis,Seborrheic keratosis,HP:0031287,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PLA2G7,HP:0040175,Platelet-activating factor acetylhydrolase deficiency,Platelet-activating factor acetylhydrolase deficiency,HP:0040175,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PRCC,HP:0011797,Papillary renal cell carcinoma type 1,Papillary renal cell carcinoma type 1,HP:0011797,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PRF1,HP:0001915,Aplastic anemia,Aplastic anemia,HP:0001915,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PSEN1,HP:0002145,Frontotemporal dementia,Frontotemporal dementia,HP:0002145,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PTCH2,HP:0002885,Medulloblastoma,Medulloblastoma,HP:0002885,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PTPN11,HP:0012209,Juvenile myelomonocytic leukemia,Juvenile myelomonocytic leukemia,HP:0012209,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RARA,HP:0004836,Acute promyelocytic leukemia,Acute promyelocytic leukemia,HP:0004836,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RB1,HP:0009919,Retinoblastoma,Retinoblastoma,HP:0009919,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RB1,HP:0030357,Small cell lung carcinoma,Small cell lung carcinoma,HP:0030357,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RET,HP:0002666,Pheochromocytoma,Pheochromocytoma,HP:0002666,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RP1L1,HP:0030636,Occult macular dystrophy,Occult macular dystrophy,HP:0030636,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RPGRIP1L,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RTN4R,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RUNX1,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SBDS,HP:0001915,Aplastic anemia,Aplastic anemia,HP:0001915,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SDCCAG8,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SGCB,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SGCD,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SH3GL1,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SIX3,HP:0010636,Schizencephaly,Schizencephaly,HP:0010636,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC22A4,HP:0001370,Rheumatoid arthritis,Rheumatoid arthritis,HP:0001370,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC36A2,HP:0003108,Hyperglycinuria,Hyperglycinuria,HP:0003108,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC39A14,HP:0005890,Hyperostosis cranialis interna,Hyperostosis cranialis interna,HP:0005890,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC3A1,HP:0003131,Cystinuria,Cystinuria,HP:0003131,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC6A4,HP:0000739,Anxiety,Anxiety,HP:0000739,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC7A9,HP:0003131,Cystinuria,Cystinuria,HP:0003131,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SMARCAD1,HP:0007455,Adermatoglyphia,Adermatoglyphia,HP:0007455,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SMNDC1,HP:0007269,Spinal muscular atrophy,Spinal muscular atrophy,HP:0007269,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SNRPN,HP:0000717,Autism,Autism,HP:0000717,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SSX1,HP:0012570,Synovial sarcoma,Synovial sarcoma,HP:0012570,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SUFU,HP:0002885,Medulloblastoma,Medulloblastoma,HP:0002885,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SUOX,HP:0003643,Sulfite oxidase deficiency,Sulfite oxidase deficiency,HP:0003643,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SYN2,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TBX1,HP:0001636,Tetralogy of Fallot,Tetralogy of Fallot,HP:0001636,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TERT,HP:0004808,Acute myeloid leukemia,Acute myeloid leukemia,HP:0004808,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TERT,HP:0001915,Aplastic anemia,Aplastic anemia,HP:0001915,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TF,HP:0012239,Atransferrinemia,Atransferrinemia,HP:0012239,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TGFB1,HP:0100252,Diaphyseal dysplasia,Diaphyseal dysplasia,HP:0100252,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TMEM127,HP:0002666,Pheochromocytoma,Pheochromocytoma,HP:0002666,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TMEM67,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TP53,HP:0200022,Choroid plexus papilloma,Choroid plexus papilloma,HP:0200022,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TP53,HP:0001402,Hepatocellular carcinoma,Hepatocellular carcinoma,HP:0001402,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TREX1,HP:0002725,Systemic lupus erythematosus,Systemic lupus erythematosus,HP:0002725,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TTC21B,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+UBQLN2,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+VCP,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+VHL,HP:0002666,Pheochromocytoma,Pheochromocytoma,HP:0002666,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+WDR19,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+XPNPEP3,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ZFPM2,HP:0001636,Tetralogy of Fallot,Tetralogy of Fallot,HP:0001636,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ZNF423,HP:0000090,Nephronophthisis,Nephronophthisis,HP:0000090,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ABCA7,HP:0002511,Alzheimer disease,Alzheimer disease,HP:0002511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ABCC9,HP:0005110,Atrial fibrillation,Atrial fibrillation,HP:0005110,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ABCC9,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ABCC9,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ACP5,HP:0002657,Spondylometaphyseal dysplasia,Spondylometaphyseal dysplasia,HP:0002657,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ACTC1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ACTC1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ACTC1,HP:0001631,Atrial septal defect,Atrial septal defect,HP:0001631,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ACTC1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ACTC1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ACTN2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ACTN2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ACTN2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ACTN4,HP:0000097,Focal segmental glomerulosclerosis,Focal segmental glomerulosclerosis,HP:0000097,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ADAMTSL4,HP:0001083,Ectopia lentis,Ectopia lentis,HP:0001083,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ADAMTSL4,HP:0001083,Ectopia lentis,Ectopia lentis,HP:0001083,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AGPAT2,HP:0009059,Congenital generalized lipodystrophy,Congenital generalized lipodystrophy,HP:0009059,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AKT1,HP:0100615,Ovarian neoplasm,Ovarian neoplasm,HP:0100615,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AKT1,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AKT1,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ALK,HP:0003006,Neuroblastoma,Neuroblastoma,HP:0003006,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ALS2,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ALX4,HP:0004423,Cranium bifidum occultum,Cranium bifidum occultum,HP:0004423,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AMBN,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AMELX,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AMTN,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ANG,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ANKRD1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ANLN,HP:0000097,Focal segmental glomerulosclerosis,Focal segmental glomerulosclerosis,HP:0000097,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ANO5,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+APC,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+APOA2,HP:0010980,Hyperlipoproteinemia,Hyperlipoproteinemia,HP:0010980,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+APOA5,HP:0010980,Hyperlipoproteinemia,Hyperlipoproteinemia,HP:0010980,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+APOE,HP:0010980,Hyperlipoproteinemia,Hyperlipoproteinemia,HP:0010980,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+APOE,HP:0002511,Alzheimer disease,Alzheimer disease,HP:0002511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+APOE,HP:0002511,Alzheimer disease,Alzheimer disease,HP:0002511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+APOE,HP:0002511,Alzheimer disease,Alzheimer disease,HP:0002511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+APOL1,HP:0000097,Focal segmental glomerulosclerosis,Focal segmental glomerulosclerosis,HP:0000097,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AQP2,HP:0009806,Nephrogenic diabetes insipidus,Nephrogenic diabetes insipidus,HP:0009806,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ARX,HP:0001339,Lissencephaly,Lissencephaly,HP:0001339,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ATP6V0A4,HP:0008341,Distal renal tubular acidosis,Distal renal tubular acidosis,HP:0008341,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ATP6V1B1,HP:0008341,Distal renal tubular acidosis,Distal renal tubular acidosis,HP:0008341,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AUH,HP:0003535,3-Methylglutaconic aciduria,3-Methylglutaconic aciduria,HP:0003535,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AURKA,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AVP,HP:0000863,Central diabetes insipidus,Central diabetes insipidus,HP:0000863,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AVPR2,HP:0009806,Nephrogenic diabetes insipidus,Nephrogenic diabetes insipidus,HP:0009806,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+AXIN2,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BAG3,HP:0003715,Myofibrillar myopathy,Myofibrillar myopathy,HP:0003715,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BAG3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BAG3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BAX,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BCL10,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BCL10,HP:0012539,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,HP:0012539,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BRAF,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BRCA2,HP:0009733,Glioma,Glioma,HP:0009733,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BRCA2,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BRCA2,HP:0012125,Prostate cancer,Prostate cancer,HP:0012125,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BRCA2,HP:0002667,Nephroblastoma,Nephroblastoma,HP:0002667,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BSCL2,HP:0009059,Congenital generalized lipodystrophy,Congenital generalized lipodystrophy,HP:0009059,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BUB1,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+BUB1B,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+C3,HP:0005575,Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,HP:0005575,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CACNA1S,HP:0002047,Malignant hyperthermia,Malignant hyperthermia,HP:0002047,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CAPN3,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CASP10,HP:0012539,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,HP:0012539,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CAV1,HP:0009059,Congenital generalized lipodystrophy,Congenital generalized lipodystrophy,HP:0009059,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CAV3,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CAV3,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CAV3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CAVIN1,HP:0009059,Congenital generalized lipodystrophy,Congenital generalized lipodystrophy,HP:0009059,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CCDC88C,HP:0000238,Hydrocephalus,Hydrocephalus,HP:0000238,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CCND1,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CD2AP,HP:0000097,Focal segmental glomerulosclerosis,Focal segmental glomerulosclerosis,HP:0000097,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CD46,HP:0005575,Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,HP:0005575,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CDH1,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CDH1,HP:0100615,Ovarian neoplasm,Ovarian neoplasm,HP:0100615,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CFAP410,HP:0002657,Spondylometaphyseal dysplasia,Spondylometaphyseal dysplasia,HP:0002657,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CFB,HP:0005575,Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,HP:0005575,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CFH,HP:0005575,Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,HP:0005575,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CFHR1,HP:0005575,Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,HP:0005575,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CFHR3,HP:0005575,Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,HP:0005575,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CFHR4,HP:0005575,Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,HP:0005575,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CFI,HP:0005575,Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,HP:0005575,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CFTR,HP:0002110,Bronchiectasis,Bronchiectasis,HP:0002110,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CHEK2,HP:0012125,Prostate cancer,Prostate cancer,HP:0012125,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CHEK2,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CHRDL1,HP:0000485,Megalocornea,Megalocornea,HP:0000485,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CLCN5,HP:0002748,Rickets,Rickets,HP:0002748,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CLCN5,HP:0004912,Hypophosphatemic rickets,Hypophosphatemic rickets,HP:0004912,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CLPB,HP:0003535,3-Methylglutaconic aciduria,3-Methylglutaconic aciduria,HP:0003535,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+COL2A1,HP:0002657,Spondylometaphyseal dysplasia,Spondylometaphyseal dysplasia,HP:0002657,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+COL2A1,HP:0002657,Spondylometaphyseal dysplasia,Spondylometaphyseal dysplasia,HP:0002657,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+COL8A2,HP:0001131,Corneal dystrophy,Corneal dystrophy,HP:0001131,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CR2,HP:0002725,Systemic lupus erythematosus,Systemic lupus erythematosus,HP:0002725,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CRB2,HP:0000097,Focal segmental glomerulosclerosis,Focal segmental glomerulosclerosis,HP:0000097,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CRYAB,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CRYAB,HP:0003715,Myofibrillar myopathy,Myofibrillar myopathy,HP:0003715,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CSRP3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CSRP3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CSRP3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CSRP3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CTNNB1,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CTNNB1,HP:0009733,Glioma,Glioma,HP:0009733,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CTNNB1,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CTNNB1,HP:0100615,Ovarian neoplasm,Ovarian neoplasm,HP:0100615,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CYP11B1,HP:0008258,Congenital adrenal hyperplasia,Congenital adrenal hyperplasia,HP:0008258,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CYP17A1,HP:0008258,Congenital adrenal hyperplasia,Congenital adrenal hyperplasia,HP:0008258,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+CYP21A2,HP:0008258,Congenital adrenal hyperplasia,Congenital adrenal hyperplasia,HP:0008258,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DAG1,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DCC,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DCTN1,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DCX,HP:0001339,Lissencephaly,Lissencephaly,HP:0001339,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DES,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DES,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DES,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DES,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DES,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DES,HP:0003715,Myofibrillar myopathy,Myofibrillar myopathy,HP:0003715,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DISC1,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DLC1,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DLST,HP:0002668,Paraganglioma,Paraganglioma,HP:0002668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DLX3,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DMP1,HP:0004912,Hypophosphatemic rickets,Hypophosphatemic rickets,HP:0004912,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DMP1,HP:0002748,Rickets,Rickets,HP:0002748,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DNAJB6,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DNAJC19,HP:0003535,3-Methylglutaconic aciduria,3-Methylglutaconic aciduria,HP:0003535,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DRD4,HP:0007018,Attention deficit hyperactivity disorder,Attention deficit hyperactivity disorder,HP:0007018,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DRD5,HP:0007018,Attention deficit hyperactivity disorder,Attention deficit hyperactivity disorder,HP:0007018,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DSC2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DSC2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DSG2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DSG2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DSG2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DSG2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DSP,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DSP,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+DUOX2,HP:0000851,Congenital hypothyroidism,Congenital hypothyroidism,HP:0000851,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ECE1,HP:0002251,Aganglionic megacolon,Aganglionic megacolon,HP:0002251,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ECEL1,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EDA,HP:0007607,Hypohidrotic ectodermal dysplasia,Hypohidrotic ectodermal dysplasia,HP:0007607,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EDA,HP:0000668,Hypodontia,Hypodontia,HP:0000668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EDAR,HP:0007607,Hypohidrotic ectodermal dysplasia,Hypohidrotic ectodermal dysplasia,HP:0007607,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EDAR,HP:0007607,Hypohidrotic ectodermal dysplasia,Hypohidrotic ectodermal dysplasia,HP:0007607,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EDARADD,HP:0007607,Hypohidrotic ectodermal dysplasia,Hypohidrotic ectodermal dysplasia,HP:0007607,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EDARADD,HP:0007607,Hypohidrotic ectodermal dysplasia,Hypohidrotic ectodermal dysplasia,HP:0007607,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EDARADD,HP:0007607,Hypohidrotic ectodermal dysplasia,Hypohidrotic ectodermal dysplasia,HP:0007607,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EDN3,HP:0002251,Aganglionic megacolon,Aganglionic megacolon,HP:0002251,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EDNRA,HP:0002076,Migraine,Migraine,HP:0002076,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EDNRB,HP:0002251,Aganglionic megacolon,Aganglionic megacolon,HP:0002251,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ELP1,HP:0009733,Glioma,Glioma,HP:0009733,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ENAM,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ENAM,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ENPP1,HP:0002748,Rickets,Rickets,HP:0002748,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ENPP1,HP:0004912,Hypophosphatemic rickets,Hypophosphatemic rickets,HP:0004912,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EP300,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EPHX2,HP:0010980,Hyperlipoproteinemia,Hyperlipoproteinemia,HP:0010980,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ERBB2,HP:0009733,Glioma,Glioma,HP:0009733,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ERBB2,HP:0100615,Ovarian neoplasm,Ovarian neoplasm,HP:0100615,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ERBB2,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ESR1,HP:0002076,Migraine,Migraine,HP:0002076,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EWSR1,HP:0006717,Peripheral neuroepithelioma,Peripheral neuroepithelioma,HP:0006717,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EYA4,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+EYA4,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FAM20A,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FBN1,HP:0001083,Ectopia lentis,Ectopia lentis,HP:0001083,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FGF23,HP:0002748,Rickets,Rickets,HP:0002748,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FGF23,HP:0004912,Hypophosphatemic rickets,Hypophosphatemic rickets,HP:0004912,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FGFR3,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FGFR3,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FGFR3,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FIG4,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FKRP,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FKTN,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FKTN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FKTN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FLCN,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FLNC,HP:0003715,Myofibrillar myopathy,Myofibrillar myopathy,HP:0003715,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FN1,HP:0002657,Spondylometaphyseal dysplasia,Spondylometaphyseal dysplasia,HP:0002657,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FOXC1,HP:0000558,Rieger anomaly,Rieger anomaly,HP:0000558,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FOXL1,HP:0000362,Otosclerosis,Otosclerosis,HP:0000362,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FUS,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+FUZ,HP:0045005,Neural tube defect,Neural tube defect,HP:0045005,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GATA4,HP:0001631,Atrial septal defect,Atrial septal defect,HP:0001631,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GDF1,HP:0031855,Right isomerism,Right isomerism,HP:0031855,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GDF5,HP:0100264,Proximal symphalangism,Proximal symphalangism,HP:0100264,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GDNF,HP:0002251,Aganglionic megacolon,Aganglionic megacolon,HP:0002251,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GHR,HP:0010980,Hyperlipoproteinemia,Hyperlipoproteinemia,HP:0010980,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GJA5,HP:0025478,Atrial standstill,Atrial standstill,HP:0025478,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GJA5,HP:0005110,Atrial fibrillation,Atrial fibrillation,HP:0005110,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GNAQ,HP:0025104,Capillary malformation,Capillary malformation,HP:0025104,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GNAS,HP:0000852,Pseudohypoparathyroidism,Pseudohypoparathyroidism,HP:0000852,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GNAS,HP:0000852,Pseudohypoparathyroidism,Pseudohypoparathyroidism,HP:0000852,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GNAS,HP:0000852,Pseudohypoparathyroidism,Pseudohypoparathyroidism,HP:0000852,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GNAS,HP:0000852,Pseudohypoparathyroidism,Pseudohypoparathyroidism,HP:0000852,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GNAS-AS1,HP:0000852,Pseudohypoparathyroidism,Pseudohypoparathyroidism,HP:0000852,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GPC3,HP:0002667,Nephroblastoma,Nephroblastoma,HP:0002667,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GPC4,HP:0002667,Nephroblastoma,Nephroblastoma,HP:0002667,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GPR161,HP:0009733,Glioma,Glioma,HP:0009733,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GPR68,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GPX4,HP:0002657,Spondylometaphyseal dysplasia,Spondylometaphyseal dysplasia,HP:0002657,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GREM2,HP:0000668,Hypodontia,Hypodontia,HP:0000668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GRHL2,HP:0001131,Corneal dystrophy,Corneal dystrophy,HP:0001131,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+GUCY2C,HP:0004401,Meconium ileus,Meconium ileus,HP:0004401,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+H19,HP:0002667,Nephroblastoma,Nephroblastoma,HP:0002667,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+H19-ICR,HP:0002667,Nephroblastoma,Nephroblastoma,HP:0002667,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HCN4,HP:0011704,Sick sinus syndrome,Sick sinus syndrome,HP:0011704,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HLA-DQA1,HP:0002608,Celiac disease,Celiac disease,HP:0002608,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HLA-DQB1,HP:0002608,Celiac disease,Celiac disease,HP:0002608,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HNRNPDL,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HR,HP:0001596,Alopecia,Alopecia,HP:0001596,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HRAS,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HRAS,HP:0000995,Melanocytic nevus,Melanocytic nevus,HP:0000995,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HSD3B2,HP:0008258,Congenital adrenal hyperplasia,Congenital adrenal hyperplasia,HP:0008258,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+HTRA2,HP:0003535,3-Methylglutaconic aciduria,3-Methylglutaconic aciduria,HP:0003535,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+IDH1,HP:0009733,Glioma,Glioma,HP:0009733,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+IGF2,HP:0002667,Nephroblastoma,Nephroblastoma,HP:0002667,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+INF2,HP:0000097,Focal segmental glomerulosclerosis,Focal segmental glomerulosclerosis,HP:0000097,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+IRF5,HP:0002725,Systemic lupus erythematosus,Systemic lupus erythematosus,HP:0002725,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ITGB6,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ITPR2,HP:0000970,Anhidrosis,Anhidrosis,HP:0000970,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+IYD,HP:0000851,Congenital hypothyroidism,Congenital hypothyroidism,HP:0000851,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+JPH2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+JUP,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+JUP,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KCNA5,HP:0005110,Atrial fibrillation,Atrial fibrillation,HP:0005110,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KCNE2,HP:0005110,Atrial fibrillation,Atrial fibrillation,HP:0005110,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KCNJ2,HP:0005110,Atrial fibrillation,Atrial fibrillation,HP:0005110,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KCNK18,HP:0002076,Migraine,Migraine,HP:0002076,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KCNQ1,HP:0005110,Atrial fibrillation,Atrial fibrillation,HP:0005110,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KIF1B,HP:0003006,Neuroblastoma,Neuroblastoma,HP:0003006,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KIF21A,HP:0001491,Congenital fibrosis of extraocular muscles,Congenital fibrosis of extraocular muscles,HP:0001491,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KISS1R,HP:0000826,Precocious puberty,Precocious puberty,HP:0000826,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KIT,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KLF6,HP:0012125,Prostate cancer,Prostate cancer,HP:0012125,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KLF6,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KLK4,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+KRAS,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LAMA4,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LAMB1,HP:0001339,Lissencephaly,Lissencephaly,HP:0001339,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LAMB3,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LDB3,HP:0003715,Myofibrillar myopathy,Myofibrillar myopathy,HP:0003715,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LDB3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LDB3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LDLR,HP:0010980,Hyperlipoproteinemia,Hyperlipoproteinemia,HP:0010980,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LHCGR,HP:0000826,Precocious puberty,Precocious puberty,HP:0000826,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LMNA,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LMNA,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LMNA,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LMX1B,HP:0000097,Focal segmental glomerulosclerosis,Focal segmental glomerulosclerosis,HP:0000097,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LPL,HP:0010980,Hyperlipoproteinemia,Hyperlipoproteinemia,HP:0010980,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LRP6,HP:0000668,Hypodontia,Hypodontia,HP:0000668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+LTBP2,HP:0030961,Microspherophakia,Microspherophakia,HP:0030961,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MAD1L1,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MAD1L1,HP:0012125,Prostate cancer,Prostate cancer,HP:0012125,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MCC,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MCEE,HP:0002912,Methylmalonic acidemia,Methylmalonic acidemia,HP:0002912,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MET,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MLH3,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MMAA,HP:0002912,Methylmalonic acidemia,Methylmalonic acidemia,HP:0002912,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MMAB,HP:0002912,Methylmalonic acidemia,Methylmalonic acidemia,HP:0002912,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MMADHC,HP:0002912,Methylmalonic acidemia,Methylmalonic acidemia,HP:0002912,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MMP20,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MMUT,HP:0002912,Methylmalonic acidemia,Methylmalonic acidemia,HP:0002912,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MPDZ,HP:0000238,Hydrocephalus,Hydrocephalus,HP:0000238,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MPO,HP:0002511,Alzheimer disease,Alzheimer disease,HP:0002511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MSX1,HP:0000668,Hypodontia,Hypodontia,HP:0000668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MSX2,HP:0004423,Cranium bifidum occultum,Cranium bifidum occultum,HP:0004423,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MXI1,HP:0012125,Prostate cancer,Prostate cancer,HP:0012125,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MXI1,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYBPC1,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYBPC3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYBPC3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYBPC3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH3,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH3,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH6,HP:0011704,Sick sinus syndrome,Sick sinus syndrome,HP:0011704,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH6,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH6,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH6,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH6,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH6,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH6,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH6,HP:0001631,Atrial septal defect,Atrial septal defect,HP:0001631,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH7,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH7,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH7,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH7,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYH8,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYL2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYL2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYL3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYL3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYO1E,HP:0000097,Focal segmental glomerulosclerosis,Focal segmental glomerulosclerosis,HP:0000097,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYOT,HP:0003715,Myofibrillar myopathy,Myofibrillar myopathy,HP:0003715,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYOT,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYOZ2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+MYOZ2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NALCN,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NEFH,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NEXN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NEXN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NEXN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NEXN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NHERF1,HP:0000939,Osteoporosis,Osteoporosis,HP:0000939,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NOG,HP:0100264,Proximal symphalangism,Proximal symphalangism,HP:0100264,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NOTCH3,HP:0020135,Myofibromatosis,Myofibromatosis,HP:0020135,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NPPA,HP:0025478,Atrial standstill,Atrial standstill,HP:0025478,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NRAS,HP:0000995,Melanocytic nevus,Melanocytic nevus,HP:0000995,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+NRAS,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ODAPH,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+OPA3,HP:0003535,3-Methylglutaconic aciduria,3-Methylglutaconic aciduria,HP:0003535,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+OPCML,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+OPCML,HP:0100615,Ovarian neoplasm,Ovarian neoplasm,HP:0100615,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+OPN1LW,HP:0000642,Red-green dyschromatopsia,Red-green dyschromatopsia,HP:0000642,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+OPN1MW,HP:0000642,Red-green dyschromatopsia,Red-green dyschromatopsia,HP:0000642,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+OVOL2,HP:0001131,Corneal dystrophy,Corneal dystrophy,HP:0001131,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+OXGR1,HP:0000787,Kidney stone,Kidney stone,HP:0000787,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PAFAH1B1,HP:0001339,Lissencephaly,Lissencephaly,HP:0001339,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PAM16,HP:0002657,Spondylometaphyseal dysplasia,Spondylometaphyseal dysplasia,HP:0002657,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PAX2,HP:0000097,Focal segmental glomerulosclerosis,Focal segmental glomerulosclerosis,HP:0000097,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PAX6,HP:0000609,Optic nerve hypoplasia,Optic nerve hypoplasia,HP:0000609,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PAX8,HP:0000851,Congenital hypothyroidism,Congenital hypothyroidism,HP:0000851,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PAX9,HP:0000668,Hypodontia,Hypodontia,HP:0000668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PDGFRB,HP:0020135,Myofibromatosis,Myofibromatosis,HP:0020135,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PDGFRL,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PHEX,HP:0004912,Hypophosphatemic rickets,Hypophosphatemic rickets,HP:0004912,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PHEX,HP:0002748,Rickets,Rickets,HP:0002748,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PHOX2A,HP:0001491,Congenital fibrosis of extraocular muscles,Congenital fibrosis of extraocular muscles,HP:0001491,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PHOX2B,HP:0003006,Neuroblastoma,Neuroblastoma,HP:0003006,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PIEZO2,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PIEZO2,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PIK3CA,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PIK3CA,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PIK3CA,HP:0100615,Ovarian neoplasm,Ovarian neoplasm,HP:0100615,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PITX2,HP:0000558,Rieger anomaly,Rieger anomaly,HP:0000558,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PKP2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PKP2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PLA2G2A,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PLAU,HP:0002511,Alzheimer disease,Alzheimer disease,HP:0002511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PLEC,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PLN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PLN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PLN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PLN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PLN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PLS3,HP:0000776,Congenital diaphragmatic hernia,Congenital diaphragmatic hernia,HP:0000776,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+POMGNT1,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+POU6F2,HP:0002667,Nephroblastoma,Nephroblastoma,HP:0002667,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PPP1R17,HP:0010980,Hyperlipoproteinemia,Hyperlipoproteinemia,HP:0010980,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PRCC,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PRF1,HP:0012539,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,HP:0012539,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PRKAG2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PRKAG2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PRKN,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PRKN,HP:0100615,Ovarian neoplasm,Ovarian neoplasm,HP:0100615,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PRODH,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PRPH,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PSEN1,HP:0002511,Alzheimer disease,Alzheimer disease,HP:0002511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PSEN1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PSEN2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PSEN2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PSEN2,HP:0002511,Alzheimer disease,Alzheimer disease,HP:0002511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PTCH2,HP:0009733,Glioma,Glioma,HP:0009733,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PTEN,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PTEN,HP:0012125,Prostate cancer,Prostate cancer,HP:0012125,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PTPN12,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+PTPRJ,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RAD54B,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RAD54B,HP:0012539,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,HP:0012539,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RAD54L,HP:0012539,Non-Hodgkin lymphoma,Non-Hodgkin lymphoma,HP:0012539,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RB1,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RBM12,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RBM20,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RBM20,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RELN,HP:0001339,Lissencephaly,Lissencephaly,HP:0001339,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RELT,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+REST,HP:0000212,Gingival overgrowth,Gingival overgrowth,HP:0000212,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RET,HP:0002251,Aganglionic megacolon,Aganglionic megacolon,HP:0002251,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RGS9,HP:0030511,Bradyopsia,Bradyopsia,HP:0030511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RGS9BP,HP:0030511,Bradyopsia,Bradyopsia,HP:0030511,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ROBO2,HP:0000076,Vesicoureteral reflux,Vesicoureteral reflux,HP:0000076,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+RYR1,HP:0002047,Malignant hyperthermia,Malignant hyperthermia,HP:0002047,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SACK1H,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SCN5A,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SCN5A,HP:0011704,Sick sinus syndrome,Sick sinus syndrome,HP:0011704,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SCNN1A,HP:0002110,Bronchiectasis,Bronchiectasis,HP:0002110,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SCNN1B,HP:0002110,Bronchiectasis,Bronchiectasis,HP:0002110,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SCNN1G,HP:0002110,Bronchiectasis,Bronchiectasis,HP:0002110,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SDHA,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SDHA,HP:0002668,Paraganglioma,Paraganglioma,HP:0002668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SDHAF2,HP:0002668,Paraganglioma,Paraganglioma,HP:0002668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SDHB,HP:0002668,Paraganglioma,Paraganglioma,HP:0002668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SDHC,HP:0002668,Paraganglioma,Paraganglioma,HP:0002668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SDHD,HP:0002668,Paraganglioma,Paraganglioma,HP:0002668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SERAC1,HP:0003535,3-Methylglutaconic aciduria,3-Methylglutaconic aciduria,HP:0003535,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SETX,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SGCA,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SGCD,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SGCD,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SGCG,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SHANK3,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SIGMAR1,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC11A2,HP:0001935,Microcytic anemia,Microcytic anemia,HP:0001935,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC11A2,HP:0004840,Hypochromic microcytic anemia,Hypochromic microcytic anemia,HP:0004840,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC1A1,HP:0100753,Schizophrenia,Schizophrenia,HP:0100753,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC24A4,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC25A11,HP:0002668,Paraganglioma,Paraganglioma,HP:0002668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC26A1,HP:0000787,Kidney stone,Kidney stone,HP:0000787,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC34A1,HP:0000939,Osteoporosis,Osteoporosis,HP:0000939,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC4A1,HP:0008341,Distal renal tubular acidosis,Distal renal tubular acidosis,HP:0008341,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC4A1,HP:0008341,Distal renal tubular acidosis,Distal renal tubular acidosis,HP:0008341,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SLC4A11,HP:0001131,Corneal dystrophy,Corneal dystrophy,HP:0001131,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SMARCA4,HP:0000362,Otosclerosis,Otosclerosis,HP:0000362,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SMN1,HP:0007269,Spinal muscular atrophy,Spinal muscular atrophy,HP:0007269,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SMN1,HP:0007269,Spinal muscular atrophy,Spinal muscular atrophy,HP:0007269,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SMN1,HP:0007269,Spinal muscular atrophy,Spinal muscular atrophy,HP:0007269,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SMN1,HP:0007269,Spinal muscular atrophy,Spinal muscular atrophy,HP:0007269,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SMN2,HP:0007269,Spinal muscular atrophy,Spinal muscular atrophy,HP:0007269,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SOD1,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SOS1,HP:0000212,Gingival overgrowth,Gingival overgrowth,HP:0000212,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SOX17,HP:0000076,Vesicoureteral reflux,Vesicoureteral reflux,HP:0000076,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SPG11,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SRC,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+STAR,HP:0008258,Congenital adrenal hyperplasia,Congenital adrenal hyperplasia,HP:0008258,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+STAT3,HP:0001973,Autoimmune thrombocytopenia,Autoimmune thrombocytopenia,HP:0001973,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+STAT4,HP:0002725,Systemic lupus erythematosus,Systemic lupus erythematosus,HP:0002725,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+STEAP3,HP:0004840,Hypochromic microcytic anemia,Hypochromic microcytic anemia,HP:0004840,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+STEAP3,HP:0001935,Microcytic anemia,Microcytic anemia,HP:0001935,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+STK11,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+STX16,HP:0000852,Pseudohypoparathyroidism,Pseudohypoparathyroidism,HP:0000852,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+SUFU,HP:0009733,Glioma,Glioma,HP:0009733,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TAFAZZIN,HP:0003535,3-Methylglutaconic aciduria,3-Methylglutaconic aciduria,HP:0003535,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TAFAZZIN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TAFAZZIN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TARDBP,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TBX20,HP:0001631,Atrial septal defect,Atrial septal defect,HP:0001631,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TBX22,HP:0000175,Cleft palate,Cleft palate,HP:0000175,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TBXT,HP:0045005,Neural tube defect,Neural tube defect,HP:0045005,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TCAP,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TCAP,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TCAP,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TCAP,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TGFB2,HP:0100252,Diaphyseal dysplasia,Diaphyseal dysplasia,HP:0100252,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TGFB3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+THBD,HP:0005575,Hemolytic-uremic syndrome,Hemolytic-uremic syndrome,HP:0005575,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TIMM50,HP:0003535,3-Methylglutaconic aciduria,3-Methylglutaconic aciduria,HP:0003535,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TLL1,HP:0001631,Atrial septal defect,Atrial septal defect,HP:0001631,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TLR2,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TLR5,HP:0002725,Systemic lupus erythematosus,Systemic lupus erythematosus,HP:0002725,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TMEM43,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TMEM43,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TMPO,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TMPO,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TMPRSS6,HP:0001935,Microcytic anemia,Microcytic anemia,HP:0001935,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNF,HP:0002076,Migraine,Migraine,HP:0002076,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNC1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNC1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNC1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNI2,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNI2,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNI3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNI3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNI3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNI3,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNT2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNT2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNT2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNT2,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNNT3,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNPO3,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TNXB,HP:0000076,Vesicoureteral reflux,Vesicoureteral reflux,HP:0000076,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TP53,HP:0100834,Neoplasm of the large intestine,Neoplasm of the large intestine,HP:0100834,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TP53,HP:0009733,Glioma,Glioma,HP:0009733,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TP63,HP:0000175,Cleft palate,Cleft palate,HP:0000175,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TPM1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TPM1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TPM1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TPM1,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TPM2,HP:0005684,Distal arthrogryposis,Distal arthrogryposis,HP:0005684,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TPO,HP:0000851,Congenital hypothyroidism,Congenital hypothyroidism,HP:0000851,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TRAPPC11,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TRIM32,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TRPC6,HP:0000097,Focal segmental glomerulosclerosis,Focal segmental glomerulosclerosis,HP:0000097,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TRPV4,HP:0002657,Spondylometaphyseal dysplasia,Spondylometaphyseal dysplasia,HP:0002657,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TSHB,HP:0000851,Congenital hypothyroidism,Congenital hypothyroidism,HP:0000851,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TSHR,HP:0000851,Congenital hypothyroidism,Congenital hypothyroidism,HP:0000851,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TSPEAR,HP:0000668,Hypodontia,Hypodontia,HP:0000668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TTN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TTN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TTN,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TTN,HP:0006785,Limb-girdle muscular dystrophy,Limb-girdle muscular dystrophy,HP:0006785,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TUBA1A,HP:0001339,Lissencephaly,Lissencephaly,HP:0001339,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+TUBB3,HP:0001491,Congenital fibrosis of extraocular muscles,Congenital fibrosis of extraocular muscles,HP:0001491,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+VANGL1,HP:0045005,Neural tube defect,Neural tube defect,HP:0045005,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+VANGL2,HP:0045005,Neural tube defect,Neural tube defect,HP:0045005,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+VAPB,HP:0007354,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis,HP:0007354,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+VCL,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+VCL,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+VCL,HP:0001638,Cardiomyopathy,Cardiomyopathy,HP:0001638,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+WDR72,HP:0000705,Amelogenesis imperfecta,Amelogenesis imperfecta,HP:0000705,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+WDR81,HP:0000238,Hydrocephalus,Hydrocephalus,HP:0000238,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+WNT10A,HP:0000668,Hypodontia,Hypodontia,HP:0000668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+WNT10B,HP:0000668,Hypodontia,Hypodontia,HP:0000668,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+WT1,HP:0002667,Nephroblastoma,Nephroblastoma,HP:0002667,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ZEB1,HP:0001131,Corneal dystrophy,Corneal dystrophy,HP:0001131,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ZFHX3,HP:0007379,Neoplasm of the genitourinary tract,Neoplasm of the genitourinary tract,HP:0007379,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ZFHX3,HP:0012125,Prostate cancer,Prostate cancer,HP:0012125,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic
+ZFPM2,HP:0000776,Congenital diaphragmatic hernia,Congenital diaphragmatic hernia,HP:0000776,Human Phenotype Ontology,gene_condition_source_id,hpo_genetic

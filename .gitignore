@@ -1,0 +1,75 @@
+# Node dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python artifacts and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+ENV/
+env/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Local databases and runtime state
+*.db
+*.sqlite
+*.sqlite3
+genomeai.db
+
+# Generated PDF reports (keep directory structure, exclude generated patient reports)
+backend/generated_reports/*.pdf
+!backend/generated_reports/.gitkeep
+
+# Environment and secrets (allow documentation examples)
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor and OS junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local audit and evaluation reports (not needed on public GitHub)
+docs/
+
