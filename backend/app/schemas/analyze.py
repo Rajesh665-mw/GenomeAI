@@ -91,6 +91,26 @@ class ReportSummary(BaseModel):
     download_url: str
 
 
+class VariantEvidence(BaseModel):
+    variant_identifier: str
+    chromosome: str | None = None
+    position: str | None = None
+    reference_allele: str | None = None
+    alternate_allele: str | None = None
+    clinical_significance: str | None = None
+    review_status: str | None = None
+    condition: str | None = None
+    source: str = "ClinVar"
+
+
+class PhenotypeAssociation(BaseModel):
+    phenotype: str
+    phenotype_id: str | None = None
+    disease_name: str | None = None
+    source: str = "Human Phenotype Ontology"
+    record_type: str = "hpo_genetic"
+
+
 # ---------- Unified response ----------
 
 class AnalysisResult(BaseModel):
@@ -102,6 +122,8 @@ class AnalysisResult(BaseModel):
     research: list[ResearchReference] = []
     guidance: list[GuidanceItem] = []
     explanation: list[ExplanationItem] = []
+    variant_evidence: list[VariantEvidence] = []
+    phenotypes: list[PhenotypeAssociation] = []
     report: ReportSummary | None = None
     # Which analysis mode produced this result, and where its data came
     # from. Nullable for backward compatibility with results generated

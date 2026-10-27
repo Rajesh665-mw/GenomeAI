@@ -58,10 +58,42 @@ async def download_report_pdf(
     report_row = (await db.execute(stmt)).scalars().first()
 
     if report_row is None or not os.path.exists(report_row.pdf_path):
-        raise ReportNotReadyError(f"No generated PDF available yet for analysis '{analysis_id}'.")
+        if history is not None and history.result_json:
+            from app.services.report_service import generate_pdf
+            from app.orchestrator.context import AnalysisContext
+            from app.schemas.analyze import (
+                GeneValidation, RiskAssessment, GuidanceItem,
+                ExplanationItem, ResearchReference
+            )
+            rj = history.result_json
+            val = GeneValidation(**rj["validation"]) if rj.get("validation") else None
+            ra = [RiskAssessment(**x) for x in rj.get("risk_assessment", [])]
+            gd = [GuidanceItem(**x) for x in rj.get("guidance", [])]
+            ex = [ExplanationItem(**x) for x in rj.get("explanation", [])]
+            rs = [ResearchReference(**x) for x in rj.get("research", [])]
+            ctx = AnalysisContext(
+                analysis_id=analysis_id,
+                gene_symbol=history.gene_symbol,
+                validation=val,
+                risk_assessment=ra,
+                guidance=gd,
+                explanation=ex,
+                research=rs,
+            )
+            reconstructed_path = await generate_pdf(ctx)
+            if report_row is not None:
+                report_row.pdf_path = reconstructed_path
+            else:
+                db.add(Report(analysis_id=analysis_id, pdf_path=reconstructed_path))
+            await db.commit()
+            pdf_path_to_serve = reconstructed_path
+        else:
+            raise ReportNotReadyError(f"No generated PDF available yet for analysis '{analysis_id}'.")
+    else:
+        pdf_path_to_serve = report_row.pdf_path
 
     return FileResponse(
-        path=report_row.pdf_path,
+        path=pdf_path_to_serve,
         media_type="application/pdf",
         filename=f"genomeai-report-{history.gene_symbol}-{analysis_id[:8]}.pdf",
     )

@@ -193,6 +193,14 @@ npm run dev
 
 ## 8. Automated Testing & Verification
 
+### Running Dataset Validation CLI
+Validate all production datasets, schemas, benchmark gene coverage, and quarantine isolation:
+```bash
+cd backend
+python scripts/validate_datasets.py
+```
+*Expected: [PASS] ALL PRODUCTION DATASETS VERIFIED 100% VALID & INTEGRATED! (Exit code 0).*
+
 ### Running Native Pytest Suite
 Run the full backend test suite covering gene validation, full analyze pipeline, deterministic gene analysis, RBAC data isolation, consultations, and gene graph calculations:
 ```bash

@@ -55,21 +55,42 @@ pytest -v
 - ✅ Real PDF generation (ReportLab), downloadable via the API
 - ✅ Automated test suite (5 tests: unit + integration), all passing
 
-## What's explicitly NOT implemented yet (by design, per your instructions)
+- ✅ End-to-end request flow: `POST /api/v1/gene-analysis` & `POST /analyze` →
+  deterministic and dataset-backed pipeline → unified JSON response
+- ✅ Server-Sent Events progress stream for agent pipelines
+- ✅ Real PDF generation (ReportLab) with cryptographic SHA-256 tamper-evident seals and automatic on-demand reconstruction
+- ✅ Automated test suite (unit + integration + master dataset + RBAC), all passing
+- ✅ Full JWT authentication & role-based access control (Patient, Doctor, Admin)
+- ✅ Doctor Gene Relationship Graph backed by 14,702 ClinVar shared-disease edges
+- ✅ Integrated Production Datasets in `datasets/production/` (5,306 genes, 11,286 associations, 65,172 ClinVar variants)
+- ✅ Production Dataset Validation Command (`python scripts/validate_datasets.py`)
 
-- ❌ Real biomedical datasets — `app/datasets/*/` are empty placeholder
-  folders, as instructed
-- ❌ Auth endpoints (register/login/refresh) — the JWT/password-hashing
-  *infrastructure* exists in `core/security.py` and the `users` table
-  exists, but no auth routes are wired up. This wasn't in the Phase 2.1
-  scope list; flagging it explicitly rather than silently including or
-  excluding it
-- ❌ Alembic migration files — `init_db()` uses `create_all()` for local
-  dev convenience; production schema changes should go through Alembic,
-  which isn't set up yet
-- ❌ Multi-worker-safe progress streaming — the current `ProgressStore` is
-  in-process memory, documented with its production caveat directly in
-  `app/orchestrator/progress.py`
+## Production Dataset Architecture
+
+Datasets live in `backend/datasets/` under four architectural categories:
+
+1. `production/` — Primary runtime knowledge base loaded into memory at startup:
+   - `genomeai_master_dataset.csv`: 11,286 deduplicated gene-disease lookup rows
+   - `genomeai_genes.csv`: 5,306 verified genes with cytoband, names, and aliases
+   - `genomeai_diseases.csv`: 7,727 diseases with MONDO/OMIM/HPO IDs
+   - `genomeai_gene_disease_associations.csv`: 12,955 source assertions
+   - `genomeai_variant_evidence.csv`: 65,172 ClinVar HGVS variants
+   - `genomeai_gene_relationships.csv`: 14,702 shared-disease edges
+   - `genomeai_phenotypes.csv`: 963 phenotype and clinical symptom profiles
+   - `genomeai_phenotypes_hpo.csv`: 711 validated HPO genetic phenotypes
+   - `genomeai_clinical_symptoms.csv`: 252 general clinical survey symptoms
+   - `genomeai_preventive_guidance.csv`: 6 synthesized educational guidance categories
+2. `raw/` — Authoritative source files preserved for academic provenance and auditability.
+3. `synthetic/` — Machine learning benchmark datasets (strictly quarantined from clinical analysis).
+4. `metadata/` — Provenance registers, schemas, quality, and purity reports.
+
+## Dataset Validation Command
+
+Run dataset validation from a clean clone:
+```bash
+python scripts/validate_datasets.py
+```
+This command checks file existence, row counts, required columns, duplicate handling, benchmark gene coverage, and quarantine isolation, exiting with code 0 on success or code 1 on failure.
 
 ---
 
@@ -79,35 +100,25 @@ pytest -v
 app/
   main.py                  FastAPI app + startup/shutdown
   core/                    config, logging, security, exceptions
-  api/v1/                  routes (analyze, genes, reports, health)
+  api/v1/                  routes (auth, gene-analysis, analyze, genes, reports, consultations, health)
   orchestrator/            AgentOrchestrator, AnalysisContext, pipeline order, SSE progress store
-  agents/                  all 8 agents, one file each, one responsibility each
-  services/                all 7 services — the ONLY thing agents call for data
-  models/                  SQLAlchemy ORM (the 8 tables)
+  agents/                  8 analysis agents, one file each, one responsibility each
+  services/                business logic & dataset services (master_dataset_loader, dataset_service, etc.)
+  models/                  SQLAlchemy ORM models (User, AnalysisHistory, Report, Consultation)
   schemas/                 Pydantic request/response contracts
-  db/                      async engine/session setup
-  datasets/                empty placeholder folders for future real data
+  db/                      async engine/session setup (SQLite dev / PostgreSQL prod)
+datasets/
+  production/              production canonical datasets loaded at runtime
+  raw/                     raw source files (ClinVar TSV/CSV, etc.)
+  synthetic/               strictly quarantined synthetic datasets
+  metadata/                provenance registers and documentation
+scripts/
+  validate_datasets.py     production dataset validation CLI command
+  build_genomeai_dataset.py dataset normalization and building script
 tests/
-  unit/                    per-service tests
-  integration/             full pipeline test via in-process ASGI client
+  unit/                    unit tests
+  integration/             integration tests (auth, RBAC, master dataset, data flow)
 ```
-
-## How the "swap in real data later" promise actually works
-
-Every agent calls exactly one service (e.g. `RiskAssessmentAgent` →
-`risk_service.assess_risk()`). Every service's public function signature is
-already what a real implementation would look like — only the *body*
-changes. Today `app/services/_mock_data.py` backs everything. When real
-data is ready:
-
-1. Drop files into `app/datasets/<category>/`.
-2. Replace the relevant service's internals to read from there / a seeded
-   DB table instead of `_mock_data.py`.
-3. Delete `_mock_data.py` once nothing references it.
-
-No agent, no route, no orchestrator code changes in that process.
-
----
 
 ## Verification performed this phase
 

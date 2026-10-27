@@ -21,7 +21,7 @@ export default function ReportPreviewSection() {
             <span className="ga-report-doc-tag">Genetic Analysis Report</span>
           </div>
           <div className="ga-report-doc-title">BRCA1 — Hereditary Cancer Risk Assessment</div>
-          <div className="ga-report-doc-meta">Generated for sample patient · Placeholder data</div>
+          <div className="ga-report-doc-meta">Sample Patient Preview · Production-derived BRCA1 Analysis</div>
 
           <div className="ga-report-doc-section">
             <div className="ga-report-doc-heading">Summary</div>

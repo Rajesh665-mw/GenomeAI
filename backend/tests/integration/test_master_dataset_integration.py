@@ -277,3 +277,96 @@ async def test_mock_data_purity_and_zero_bypass():
             assert hasattr(r, "evidence_confidence_score")
             assert 0.0 < r.evidence_confidence_score <= 100.0
 
+
+@pytest.mark.asyncio
+async def test_variant_evidence_and_phenotypes_linking():
+    """Verify real ClinVar HGVS variants and HPO phenotypes are linked to Gene Analysis results."""
+    res_brca1 = await dataset_service.run("BRCA1")
+    assert len(res_brca1.variant_evidence) > 0, "BRCA1 should have ClinVar variant evidence"
+    v0 = res_brca1.variant_evidence[0]
+    assert v0.variant_identifier.startswith("NC_"), f"Expected HGVS genomic identifier, got {v0.variant_identifier}"
+    assert v0.clinical_significance is not None
+    assert v0.source == "ClinVar"
+
+    # BRCA2 has both variants and HPO phenotypes in the dataset
+    res_brca2 = await dataset_service.run("BRCA2")
+    assert len(res_brca2.variant_evidence) > 0
+    assert len(res_brca2.phenotypes) > 0, "BRCA2 should have HPO phenotypes"
+    p0 = res_brca2.phenotypes[0]
+    assert p0.phenotype is not None
+    assert p0.record_type == "hpo_genetic"
+
+
+@pytest.mark.asyncio
+async def test_tamper_evident_pdf_hash_and_reconstruction():
+    """Verify report PDF includes cryptographic seal and supports on-demand reconstruction."""
+    import os
+    from app.services.report_service import compute_pdf_hash, verify_pdf_integrity, get_reports_dir
+
+    res = await dataset_service.run("BRCA1")
+    rep_id = res.report.report_id
+    pdf_path = os.path.join(get_reports_dir(), f"{rep_id}.pdf")
+    assert os.path.exists(pdf_path), "PDF must exist after dataset_service.run"
+
+    # Compute and verify hash
+    pdf_hash = compute_pdf_hash(pdf_path)
+    assert len(pdf_hash) == 64, f"Expected 64-char hex SHA-256, got {pdf_hash}"
+    assert verify_pdf_integrity(pdf_path, pdf_hash) is True
+    assert verify_pdf_integrity(pdf_path, "0" * 64) is False
+
+    # Verify reconstruction after deletion
+    os.remove(pdf_path)
+    assert not os.path.exists(pdf_path)
+
+    # Use HTTP client to test reconstruction via /reports/{id}/pdf
+    transport = ASGITransport(app=app)
+    async with AsyncClient(transport=transport, base_url="http://test") as client:
+        import uuid
+        test_email = f"pdf_user_{uuid.uuid4().hex[:6]}@test.com"
+        reg = await client.post("/api/v1/auth/register", json={
+            "email": test_email,
+            "password": "Password123!",
+            "full_name": "PDF User",
+            "role": "patient",
+        })
+        assert reg.status_code == 201, f"Register failed: {reg.text}"
+        token = reg.json()["access_token"]
+        headers = {"Authorization": f"Bearer {token}"}
+
+        # Run via gene-analysis endpoint
+        ga_res = await client.post("/api/v1/gene-analysis", json={"query": "TP53"}, headers=headers)
+        assert ga_res.status_code == 200
+        tp53_id = ga_res.json()["result"]["report"]["report_id"]
+        tp53_pdf = os.path.join(get_reports_dir(), f"{tp53_id}.pdf")
+        assert os.path.exists(tp53_pdf)
+        os.remove(tp53_pdf)
+
+        dl_res = await client.get(f"/api/v1/reports/{tp53_id}/pdf", headers=headers)
+        assert dl_res.status_code == 200
+        assert dl_res.content.startswith(b"%PDF")
+        assert os.path.exists(tp53_pdf), "PDF must be reconstructed on disk"
+
+
+@pytest.mark.asyncio
+async def test_gene_analysis_endpoint_alias():
+    """Verify /api/v1/gene-analysis returns valid results matching /api/v1/dataset-analysis."""
+    transport = ASGITransport(app=app)
+    async with AsyncClient(transport=transport, base_url="http://test") as client:
+        r = await client.post("/api/v1/gene-analysis", json={"query": "CFTR"})
+        assert r.status_code == 200
+        data = r.json()
+        assert data["found"] is True
+        assert data["result"]["gene_symbol"] == "CFTR"
+
+
+@pytest.mark.asyncio
+async def test_production_dataset_validation_cli():
+    """Verify validate_datasets script passes with exit code 0."""
+    from scripts.validate_datasets import validate_production_datasets
+    production_dir = Path(__file__).resolve().parent.parent.parent / "datasets" / "production"
+    is_valid, failures, stats = validate_production_datasets(production_dir)
+    assert is_valid is True, f"Validation failed with: {failures}"
+    assert len(failures) == 0
+    assert stats["benchmark_genes_present"] == 11
+    assert stats["master_duplicate_pairs"] == 0
+    assert stats["master_synthetic_rows"] == 0

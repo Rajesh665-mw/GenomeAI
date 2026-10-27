@@ -24,6 +24,8 @@ from app.schemas.analyze import (
     RiskAssessment,
     ReportSummary,
     VerifiedAssociation,
+    VariantEvidence,
+    PhenotypeAssociation,
 )
 from app.services import explainability_service, prevention_service, report_service, risk_service, verification_service
 from app.services.master_dataset_loader import registry
@@ -115,6 +117,34 @@ async def run(gene_symbol: str, user_id: str | None = None) -> AnalysisResult:
     )
     context.report_pdf_path = pdf_path
 
+    variant_raw = registry.get_variant_evidence(gene_symbol)
+    variant_records = [
+        VariantEvidence(
+            variant_identifier=v["variant_identifier"],
+            chromosome=v.get("chromosome"),
+            position=v.get("position"),
+            reference_allele=v.get("reference_allele"),
+            alternate_allele=v.get("alternate_allele"),
+            clinical_significance=v.get("clinical_significance"),
+            review_status=v.get("review_status"),
+            condition=v.get("condition"),
+            source=v.get("source", "ClinVar"),
+        )
+        for v in variant_raw
+    ]
+
+    phenotype_raw = registry.get_phenotypes(gene_symbol)
+    phenotype_records = [
+        PhenotypeAssociation(
+            phenotype=p["phenotype"],
+            phenotype_id=p.get("phenotype_id"),
+            disease_name=p.get("disease_name"),
+            source=p.get("source", "Human Phenotype Ontology"),
+            record_type=p.get("record_type", "hpo_genetic"),
+        )
+        for p in phenotype_raw
+    ]
+
     result = AnalysisResult(
         gene_symbol=context.gene_symbol,
         validation=context.validation,
@@ -124,6 +154,8 @@ async def run(gene_symbol: str, user_id: str | None = None) -> AnalysisResult:
         research=context.research,
         guidance=context.guidance,
         explanation=context.explanation,
+        variant_evidence=variant_records,
+        phenotypes=phenotype_records,
         report=context.report,
         analysis_mode=ANALYSIS_MODE,
         data_source=DATA_SOURCE_LABEL,

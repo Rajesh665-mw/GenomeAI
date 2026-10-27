@@ -14,8 +14,10 @@ from app.services.disease_service import DiseaseRecord
 
 logger = logging.getLogger(__name__)
 
-_BACKEND_DIR = Path(__file__).resolve().parent.parent.parent
-_GUIDANCE_CSV = _BACKEND_DIR / "datasets" / "production" / "genomeai_preventive_guidance.csv"
+from app.services.master_dataset_loader import get_production_dataset_dir
+
+_PRODUCTION_DIR = get_production_dataset_dir()
+_GUIDANCE_CSV = _PRODUCTION_DIR / "genomeai_preventive_guidance.csv"
 
 _GUIDANCE_BY_CATEGORY: dict[str, list[dict]] = {}
 _DEFAULT_GUIDANCE: list[dict] = [

@@ -17,6 +17,7 @@ router = APIRouter()
 
 
 @router.post("/dataset-analysis", response_model=DatasetAnalysisResponse)
+@router.post("/gene-analysis", response_model=DatasetAnalysisResponse)
 async def run_dataset_analysis(
     payload: DatasetAnalysisRequest,
     current_user: User | None = Depends(get_current_user_optional),

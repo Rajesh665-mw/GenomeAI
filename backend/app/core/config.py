@@ -64,6 +64,10 @@ class Settings(BaseSettings):
     # pacing. Set to 0 for instant responses (e.g. in tests).
     MOCK_AGENT_DELAY_SECONDS: float = 0.6
 
+    # --- Datasets ---
+    # Path to directory containing production datasets (defaults to app/../datasets/production)
+    DATASET_DIR: str | None = None
+
     # --- Reports ---
     REPORTS_DIR: str = "./generated_reports"
 

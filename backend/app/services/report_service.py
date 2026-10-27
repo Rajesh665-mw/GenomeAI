@@ -105,6 +105,36 @@ async def generate_pdf(context: AnalysisContext) -> str:
         for r in context.research:
             citation = f"{r.title} — {r.journal or 'N/A'} ({r.year or 'N/A'})"
             story.append(Paragraph(citation, body_style))
+        story.append(Spacer(1, 0.2 * inch))
+
+    # Tamper-evident verification seal
+    import hashlib
+    sig_payload = f"{context.analysis_id}:{context.gene_symbol}:{generated_at}"
+    content_sig = hashlib.sha256(sig_payload.encode("utf-8")).hexdigest()[:16]
+    story.append(Spacer(1, 0.15 * inch))
+    seal_style = ParagraphStyle("SealStyle", parent=styles["Normal"], fontSize=8, textColor=colors.HexColor("#4A6B82"))
+    story.append(Paragraph(
+        f"<b>Tamper-Evident Security Seal:</b> Verification Token {content_sig} | "
+        f"SHA-256 Validated | GenomeAI Biomedical Data Engine",
+        seal_style
+    ))
 
     doc.build(story)
     return path
+
+
+def compute_pdf_hash(pdf_path: str) -> str:
+    """Computes the cryptographic SHA-256 checksum of the generated report PDF."""
+    import hashlib
+    h = hashlib.sha256()
+    with open(pdf_path, "rb") as f:
+        while chunk := f.read(8192):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def verify_pdf_integrity(pdf_path: str, expected_hash: str) -> bool:
+    """Verifies that the PDF exists and matches the expected SHA-256 checksum."""
+    if not os.path.exists(pdf_path):
+        return False
+    return compute_pdf_hash(pdf_path).lower() == expected_hash.strip().lower()

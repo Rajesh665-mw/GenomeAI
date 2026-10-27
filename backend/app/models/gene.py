@@ -1,4 +1,4 @@
-"""Genes table — curated gene metadata (mock/placeholder data for now)."""
+"""Genes table — curated gene metadata backed by authoritative NCBI/HGNC datasets."""
 import uuid
 from datetime import datetime, timezone
 
